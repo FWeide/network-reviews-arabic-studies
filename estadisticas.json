@@ -1,19 +1,19 @@
 {
   "date": "Fri Feb 09 16:18:28 CET 2018",
-  "author": "jorgaf",
+  "author": "Felix Wiedemann",
   "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
   "graphs": [
     {
-      "name": "Workspace1",
+      "name": "1_Overview",
       "title": "Network of Book Reviews in Arabic Studies",
       "tip": "",
       "nodes": "4533",
       "edges": "4985",
       "description": "",
       "imgColorDescription": "",
-      "graphfile": "Workspace1/Workspace1.csv",
-      "pdffile": "Workspace1/Workspace1.pdf",
-      "browsegraph": "Workspace1/Workspace1.gexf",
+      "graphfile": "1_Overview/Workspace1.csv",
+      "pdffile": "1_Overview/Workspace1.pdf",
+      "browsegraph": "1_Overview/Workspace1.gexf",
       "type": "Directed",
       "metrics": [
         {
@@ -48,6 +48,116 @@
         },
         {
           "name": "Number of nodes with in-degree > 0",
+          "value": "1575",
+          "description": "Description for metric 7"
+        },
+        {
+          "name": "Number of nodes with out-degree > 0",
+          "value": "3498",
+          "description": "Description for metric 8"
+        }
+      ]
+    },
+    {
+      "name": "2_ModularityInGiantComponent",
+      "title": "2_ModularityInGiantComponent",
+      "tip": "",
+      "nodes": "4533",
+      "edges": "4985",
+      "description": "",
+      "imgColorDescription": "",
+      "graphfile": "2_ModularityInGiantComponent/Workspace1.csv",
+      "pdffile": "2_ModularityInGiantComponent/Workspace1.pdf",
+      "browsegraph": "2_ModularityInGiantComponent/Workspace1.gexf",
+      "type": "Directed",
+      "metrics": [
+        {
+          "name": "Green",
+          "value": "1,100",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Red",
+          "value": "0,728",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Violet",
+          "value": "552",
+          "description": "Description for metric 3"
+        },
+        {
+          "name": "Orange",
+          "value": "4424",
+          "description": "Description for metric 4"
+        },
+        {
+          "name": "Blue",
+          "value": "8,097",
+          "description": "Description for metric 5"
+        },
+        {
+          "name": "Beige",
+          "value": "23",
+          "description": "Description for metric 6"
+        },
+        {
+          "name": "Dark gray",
+          "value": "1575",
+          "description": "Description for metric 7"
+        },
+        {
+          "name": "Number of nodes with out-degree > 0",
+          "value": "3498",
+          "description": "Description for metric 8"
+        }
+      ]
+    },
+    {
+      "name": "3_Journals",
+      "title": "3_Journals",
+      "tip": "",
+      "nodes": "4533",
+      "edges": "4985",
+      "description": "",
+      "imgColorDescription": "img/legend_journals.png",
+      "graphfile": "3_Journals/Workspace1.csv",
+      "pdffile": "3_Journals/Workspace1.pdf",
+      "browsegraph": "3_Journals/Workspace1.gexf",
+      "type": "Directed",
+      "metrics": [
+        {
+          "name": "Violet",
+          "value": "Journal of Semitic Studies",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Red",
+          "value": "0,728",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Violet",
+          "value": "552",
+          "description": "Description for metric 3"
+        },
+        {
+          "name": "Orange",
+          "value": "4424",
+          "description": "Description for metric 4"
+        },
+        {
+          "name": "Blue",
+          "value": "8,097",
+          "description": "Description for metric 5"
+        },
+        {
+          "name": "Beige",
+          "value": "23",
+          "description": "Description for metric 6"
+        },
+        {
+          "name": "Dark gray",
           "value": "1575",
           "description": "Description for metric 7"
         },

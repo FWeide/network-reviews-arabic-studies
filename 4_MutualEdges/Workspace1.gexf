@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-04-04">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted indegree" title="Weighted In-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted outdegree" title="Weighted Out-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="authority" title="Authority" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="hub" title="Hub" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="strongcompnum" title="Strongly-Connected ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="publication year" title="Publication Year" type="string"></attribute>
+      <attribute id="title" title="Title" type="string"></attribute>
+      <attribute id="publication title" title="Publication Title" type="string"></attribute>
+      <attribute id="date" title="Date" type="string"></attribute>
+      <attribute id="pages" title="Pages" type="string"></attribute>
+      <attribute id="issue" title="Issue" type="string"></attribute>
+      <attribute id="volume" title="Volume" type="string"></attribute>
+      <attribute id="translator" title="Translator" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Geoffroy, Eric">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="18.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1233217304823471"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.15053631733541611"></attvalue>
+          <attvalue for="betweenesscentrality" value="1927.5"></attvalue>
+          <attvalue for="authority" value="0.01027322"></attvalue>
+          <attvalue for="hub" value="0.01027322"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.0010996740639113735"></attvalue>
+          <attvalue for="clustering" value="0.0181818176060915"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.10240118355485028"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="1067.2402" y="1552.7062"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Gilliot, Claude">
+        <attvalues>
+          <attvalue for="indegree" value="138"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="141"></attvalue>
+          <attvalue for="weighted indegree" value="138.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="141.0"></attvalue>
+          <attvalue for="eccentricity" value="19.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1141804788213628"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.14835553234743667"></attvalue>
+          <attvalue for="betweenesscentrality" value="67472.07794467805"></attvalue>
+          <attvalue for="authority" value="0.67589813"></attvalue>
+          <attvalue for="hub" value="0.675898"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.020363273256671"></attvalue>
+          <attvalue for="clustering" value="0.0013195928186178207"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="599.6707" y="1545.7811"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Aad, Albert Abi">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.155"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19244488710214544"></attvalue>
+          <attvalue for="betweenesscentrality" value="738.5"></attvalue>
+          <attvalue for="authority" value="0.0026571692"></attvalue>
+          <attvalue for="hub" value="0.0026571692"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="4.2141333976421534E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.11976943014474033"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-482.51724" y="923.45325"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Larcher, Pierre">
+        <attvalues>
+          <attvalue for="indegree" value="48"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="60"></attvalue>
+          <attvalue for="weighted indegree" value="48.0"></attvalue>
+          <attvalue for="weighted outdegree" value="12.0"></attvalue>
+          <attvalue for="weighted degree" value="60.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.18329637841832963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2586636258007233"></attvalue>
+          <attvalue for="betweenesscentrality" value="105007.77225266586"></attvalue>
+          <attvalue for="authority" value="0.045717377"></attvalue>
+          <attvalue for="hub" value="0.045717377"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.007692722304086699"></attvalue>
+          <attvalue for="clustering" value="0.004029304254800081"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.41227649992792836"></attvalue>
+        </attvalues>
+        <viz:size value="11.278539"></viz:size>
+        <viz:position x="-484.02783" y="1068.3129"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Brooke, George J.">
+        <attvalues>
+          <attvalue for="indegree" value="61"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="64"></attvalue>
+          <attvalue for="weighted indegree" value="61.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="64.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23728813559322035"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3322704081632652"></attvalue>
+          <attvalue for="betweenesscentrality" value="8930.066666666724"></attvalue>
+          <attvalue for="authority" value="1.3542769E-4"></attvalue>
+          <attvalue for="hub" value="1.3542769E-4"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+          <attvalue for="pageranks" value="0.01013886665440338"></attvalue>
+          <attvalue for="clustering" value="0.001199520193040371"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="103"></attvalue>
+          <attvalue for="eigencentrality" value="0.326601085111651"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="2814.9124" y="-2977.7834"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Yudkin, Leon I.">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="36.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="pageranks" value="5.670309401413642E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="strongcompnum" value="137"></attvalue>
+          <attvalue for="eigencentrality" value="0.004787965357538289"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="4291.7744" y="2319.632"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Abramson, Glenda">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="26.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="pageranks" value="0.001073768574660658"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+          <attvalue for="strongcompnum" value="137"></attvalue>
+          <attvalue for="eigencentrality" value="0.004787965357538289"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="4374.2036" y="2394.0146"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Lory, Pierre">
+        <attvalues>
+          <attvalue for="indegree" value="36"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="40"></attvalue>
+          <attvalue for="weighted indegree" value="36.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="40.0"></attvalue>
+          <attvalue for="eccentricity" value="17.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14058956916099774"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.18681516341027765"></attvalue>
+          <attvalue for="betweenesscentrality" value="88039.71212975621"></attvalue>
+          <attvalue for="authority" value="0.10048444"></attvalue>
+          <attvalue for="hub" value="0.10048444"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.005786104966819777"></attvalue>
+          <attvalue for="clustering" value="0.0043209875002503395"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.28094731406473367"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="899.1292" y="1550.6635"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Kaye, Alan S.">
+        <attvalues>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted indegree" value="4.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17079889807162535"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.22927483582725575"></attvalue>
+          <attvalue for="betweenesscentrality" value="10326.22948032358"></attvalue>
+          <attvalue for="authority" value="0.0010898198"></attvalue>
+          <attvalue for="hub" value="0.0010898198"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.0012891604632611529"></attvalue>
+          <attvalue for="clustering" value="0.006410256493836641"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.07307823610397862"></attvalue>
+        </attvalues>
+        <viz:size value="10.730594"></viz:size>
+        <viz:position x="-1138.553" y="944.05914"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Agius, Dionisius Albertus">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="8.0"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.16689098250336473"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21938556515169463"></attvalue>
+          <attvalue for="betweenesscentrality" value="9816.975093001629"></attvalue>
+          <attvalue for="authority" value="0.0259946"></attvalue>
+          <attvalue for="hub" value="0.025994597"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.0012860907702805255"></attvalue>
+          <attvalue for="clustering" value="0.0535714291036129"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.01878986700532701"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-1900.3477" y="778.7213"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Vanhove, Martine">
+        <attvalues>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14326978625072212"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.17451927552734034"></attvalue>
+          <attvalue for="betweenesscentrality" value="11570.975093001634"></attvalue>
+          <attvalue for="authority" value="0.0024033126"></attvalue>
+          <attvalue for="hub" value="0.002403313"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.0010722199885562817"></attvalue>
+          <attvalue for="clustering" value="0.01785714365541935"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.06407137573995754"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="-1730.6208" y="838.8603"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Rollig, Wolfgang">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="75"></attvalue>
+          <attvalue for="pageranks" value="4.148178010099659E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+          <attvalue for="strongcompnum" value="206"></attvalue>
+          <attvalue for="eigencentrality" value="0.007657470839311901"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-3588.6223" y="-4203.6313"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Starkey, Paul">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="14"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="7.0"></attvalue>
+          <attvalue for="weighted degree" value="14.0"></attvalue>
+          <attvalue for="eccentricity" value="17.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.13901345291479822"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.1823077756367607"></attvalue>
+          <attvalue for="betweenesscentrality" value="12471.805555555557"></attvalue>
+          <attvalue for="authority" value="6.91534E-4"></attvalue>
+          <attvalue for="hub" value="6.915341E-4"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="0.00261252795572968"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.02984212226900795"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-1816.3131" y="1248.198"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Allen, Roger">
+        <attvalues>
+          <attvalue for="indegree" value="13"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="25"></attvalue>
+          <attvalue for="weighted indegree" value="13.0"></attvalue>
+          <attvalue for="weighted outdegree" value="12.0"></attvalue>
+          <attvalue for="weighted degree" value="25.0"></attvalue>
+          <attvalue for="eccentricity" value="16.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17246175243393602"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2498308311312353"></attvalue>
+          <attvalue for="betweenesscentrality" value="63623.59668858987"></attvalue>
+          <attvalue for="authority" value="0.054999813"></attvalue>
+          <attvalue for="hub" value="0.05499982"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="0.004314420884887478"></attvalue>
+          <attvalue for="clustering" value="0.005698005668818951"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.14149253037655743"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="249.0793" y="1328.1"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Zakharia, Katia">
+        <attvalues>
+          <attvalue for="indegree" value="17"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="20"></attvalue>
+          <attvalue for="weighted indegree" value="17.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="20.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17701641684511063"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.23323159815095337"></attvalue>
+          <attvalue for="betweenesscentrality" value="115582.72269985925"></attvalue>
+          <attvalue for="authority" value="0.00941181"></attvalue>
+          <attvalue for="hub" value="0.009411809"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.003098586153822417"></attvalue>
+          <attvalue for="clustering" value="0.007122507318854332"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.3166392834501492"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="-147.08508" y="1128.4938"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Cobham, Catherine">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="17.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1473559120617944"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.18914821342477928"></attvalue>
+          <attvalue for="betweenesscentrality" value="1371.295238095238"></attvalue>
+          <attvalue for="authority" value="0.0031957068"></attvalue>
+          <attvalue for="hub" value="0.0031957063"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="6.992922056807307E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.04127581991792331"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="381.85083" y="1309.7972"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Ambros, Arne A.">
+        <attvalues>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted indegree" value="9.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="1429.0320512820515"></attvalue>
+          <attvalue for="authority" value="0.007061441"></attvalue>
+          <attvalue for="hub" value="0.0070614405"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.001343704596504777"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="3"></attvalue>
+          <attvalue for="eigencentrality" value="0.06231424500704457"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-4633.3965" y="-211.6329"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Borg, Alexander">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="424.0320512820514"></attvalue>
+          <attvalue for="authority" value="4.3270562E-4"></attvalue>
+          <attvalue for="hub" value="4.3270568E-4"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="3.9756783104589793E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="3"></attvalue>
+          <attvalue for="eigencentrality" value="0.021331378792283688"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-4687.4116" y="-312.61084"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Aoudé, Ibrahim">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.42857142857142855"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="30.0"></attvalue>
+          <attvalue for="authority" value="3.3379828E-7"></attvalue>
+          <attvalue for="hub" value="3.3379825E-7"></attvalue>
+          <attvalue for="modularity_class" value="29"></attvalue>
+          <attvalue for="pageranks" value="5.691371122919164E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="310"></attvalue>
+          <attvalue for="eigencentrality" value="0.02137482291295644"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-441.03238" y="4622.976"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Talhami, Ghada Hashem">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="102.0"></attvalue>
+          <attvalue for="authority" value="5.7658153E-6"></attvalue>
+          <attvalue for="hub" value="5.765816E-6"></attvalue>
+          <attvalue for="modularity_class" value="29"></attvalue>
+          <attvalue for="pageranks" value="0.002266302052603653"></attvalue>
+          <attvalue for="clustering" value="0.010989011265337467"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="310"></attvalue>
+          <attvalue for="eigencentrality" value="0.044042733823853486"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-335.25906" y="4667.666"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Watson, Janet C. E.">
+        <attvalues>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="16"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="16.0"></attvalue>
+          <attvalue for="eccentricity" value="16.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14903846153846154"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.1903617160169585"></attvalue>
+          <attvalue for="betweenesscentrality" value="19261.20972799136"></attvalue>
+          <attvalue for="authority" value="0.0031354257"></attvalue>
+          <attvalue for="hub" value="0.003135426"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.0023115728665492716"></attvalue>
+          <attvalue for="clustering" value="0.009881422854959965"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.1607799952692335"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="-1321.4546" y="775.69867"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Mouton, Jean-Michel">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="eccentricity" value="17.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1341991341991342"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.1648313564466318"></attvalue>
+          <attvalue for="betweenesscentrality" value="12794.936874236884"></attvalue>
+          <attvalue for="authority" value="0.0029374978"></attvalue>
+          <attvalue for="hub" value="0.0029374978"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.0014047489729818053"></attvalue>
+          <attvalue for="clustering" value="0.025641025975346565"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.055026065347153826"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="94.977234" y="799.12537"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Balty-Guesdon, Marie-Geneviève">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="2014.0"></attvalue>
+          <attvalue for="authority" value="0.0017726986"></attvalue>
+          <attvalue for="hub" value="0.0017726986"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.0013351990462103416"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="29"></attvalue>
+          <attvalue for="eigencentrality" value="0.03287961633490806"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-2245.6953" y="-3785.3967"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Owens, Jonathan">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1874527588813303"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24928673477060642"></attvalue>
+          <attvalue for="betweenesscentrality" value="26295.234800364837"></attvalue>
+          <attvalue for="authority" value="0.00575695"></attvalue>
+          <attvalue for="hub" value="0.00575695"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.001591609334396461"></attvalue>
+          <attvalue for="clustering" value="0.021978022530674934"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.1570288001589304"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="-814.43695" y="1001.97314"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Newman, Andrew J.">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="1121.505952380952"></attvalue>
+          <attvalue for="authority" value="0.008072699"></attvalue>
+          <attvalue for="hub" value="0.0080726985"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.001400406076141691"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="32"></attvalue>
+          <attvalue for="eigencentrality" value="0.06826924664337944"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="2876.287" y="3306.791"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Humbert, Geneviève">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="3.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="1014.0"></attvalue>
+          <attvalue for="authority" value="5.3220615E-4"></attvalue>
+          <attvalue for="hub" value="5.322062E-4"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="6.441828418986363E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="29"></attvalue>
+          <attvalue for="eigencentrality" value="0.021171682273265047"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-2358.3994" y="-3765.9302"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Reif, Stefan C.">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.16963064295485636"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2194737610060195"></attvalue>
+          <attvalue for="betweenesscentrality" value="35969.55796360502"></attvalue>
+          <attvalue for="authority" value="0.0017232407"></attvalue>
+          <attvalue for="hub" value="0.0017232408"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.0021939956731703678"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.05523300512915624"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="2469.4922" y="-3189.3909"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Lim, Timothy H.">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29473684210526313"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4045068027210883"></attvalue>
+          <attvalue for="betweenesscentrality" value="5572.2333333333345"></attvalue>
+          <attvalue for="authority" value="2.5101137E-5"></attvalue>
+          <attvalue for="hub" value="2.5101135E-5"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+          <attvalue for="pageranks" value="0.0016777526870793195"></attvalue>
+          <attvalue for="clustering" value="0.032967034727334976"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="103"></attvalue>
+          <attvalue for="eigencentrality" value="0.14803615815291793"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="2926.579" y="-2880.6677"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Stein, Peter">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="eccentricity" value="17.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.11764705882352941"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.14769405990646514"></attvalue>
+          <attvalue for="betweenesscentrality" value="5071.400000000001"></attvalue>
+          <attvalue for="authority" value="0.0012708536"></attvalue>
+          <attvalue for="hub" value="0.0012708538"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.0014759136172008123"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.06008546260207086"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-425.8619" y="-4342.6665"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Budd, Philip J.">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="58"></attvalue>
+          <attvalue for="pageranks" value="7.359434849811288E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="65"></attvalue>
+          <attvalue for="strongcompnum" value="549"></attvalue>
+          <attvalue for="eigencentrality" value="0.004787965357538289"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-5471.5312" y="-2224.9446"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Milgrom, Jacob">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="58"></attvalue>
+          <attvalue for="pageranks" value="7.359434849811288E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="65"></attvalue>
+          <attvalue for="strongcompnum" value="549"></attvalue>
+          <attvalue for="eigencentrality" value="0.004787965357538289"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-5443.1406" y="-2114.0093"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Calder, Norman">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="20.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.10341951626355296"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.12661681807074035"></attvalue>
+          <attvalue for="betweenesscentrality" value="273.8333333333333"></attvalue>
+          <attvalue for="authority" value="0.0054178927"></attvalue>
+          <attvalue for="hub" value="0.005417892"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="4.131579287316677E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.07532229968481075"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="785.38226" y="1885.0338"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Rippin, Andrew">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="eccentricity" value="19.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.11529521152952116"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.1533849675180009"></attvalue>
+          <attvalue for="betweenesscentrality" value="19685.630561105598"></attvalue>
+          <attvalue for="authority" value="0.05458933"></attvalue>
+          <attvalue for="hub" value="0.05458934"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.001211098513661328"></attvalue>
+          <attvalue for="clustering" value="0.0535714291036129"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.3368927946652115"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="698.57324" y="1736.5929"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Dichy, Joseph">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.155"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19244488710214544"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.0"></attvalue>
+          <attvalue for="authority" value="0.0027394511"></attvalue>
+          <attvalue for="hub" value="0.0027394511"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="3.6252908655344475E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.11838193984006787"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-517.26135" y="1210.1216"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Gleave, Robert">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7142857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8"></attvalue>
+          <attvalue for="betweenesscentrality" value="301.0059523809524"></attvalue>
+          <attvalue for="authority" value="0.017995268"></attvalue>
+          <attvalue for="hub" value="0.017995268"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.0016437191062059328"></attvalue>
+          <attvalue for="clustering" value="0.022727273404598236"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="32"></attvalue>
+          <attvalue for="eigencentrality" value="0.04640672621271561"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="2862.1643" y="3207.454"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Grabbe, Lester L.">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36363636363636365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47440476190476194"></attvalue>
+          <attvalue for="betweenesscentrality" value="24537.5"></attvalue>
+          <attvalue for="authority" value="1.3419354E-4"></attvalue>
+          <attvalue for="hub" value="1.3419353E-4"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+          <attvalue for="pageranks" value="0.0019720016173043085"></attvalue>
+          <attvalue for="clustering" value="0.029411764815449715"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="103"></attvalue>
+          <attvalue for="eigencentrality" value="0.05784156995906598"></attvalue>
+        </attvalues>
+        <viz:size value="10.730594"></viz:size>
+        <viz:position x="2689.8118" y="-3106.08"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Davies, Graham">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="3.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="75"></attvalue>
+          <attvalue for="pageranks" value="0.0010737685746606577"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+          <attvalue for="strongcompnum" value="206"></attvalue>
+          <attvalue for="eigencentrality" value="0.011494390590841253"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-3588.5813" y="-4088.7065"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Holes, Clive">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="14"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+          <attvalue for="weighted degree" value="14.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.16305062458908612"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21753609293931916"></attvalue>
+          <attvalue for="betweenesscentrality" value="12165.717731778028"></attvalue>
+          <attvalue for="authority" value="0.0066271727"></attvalue>
+          <attvalue for="hub" value="0.006627172"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="0.001949943433491074"></attvalue>
+          <attvalue for="clustering" value="0.004761904943734407"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.09151425496421046"></attvalue>
+        </attvalues>
+        <viz:size value="10.730594"></viz:size>
+        <viz:position x="-1429.6838" y="948.3774"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Sima, Alexander">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="eccentricity" value="16.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1328334226031066"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.17305073958299802"></attvalue>
+          <attvalue for="betweenesscentrality" value="9572.200074925087"></attvalue>
+          <attvalue for="authority" value="0.00353442"></attvalue>
+          <attvalue for="hub" value="0.0035344195"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="7.89448655358861E-4"></attvalue>
+          <attvalue for="clustering" value="0.02777777798473835"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.03596728378365152"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-514.26117" y="-4270.113"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Elad-Bouskila, Ami">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted indegree" value="2.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="16.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.15989684074790458"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2068152781358431"></attvalue>
+          <attvalue for="betweenesscentrality" value="7682.772222222222"></attvalue>
+          <attvalue for="authority" value="0.0026937919"></attvalue>
+          <attvalue for="hub" value="0.0026937914"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="7.563288241376823E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.01735454656460562"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="-1673.1271" y="1142.8296"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Langer, Ruth">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="15.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14511410181392628"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.17309198418069402"></attvalue>
+          <attvalue for="betweenesscentrality" value="248.0"></attvalue>
+          <attvalue for="authority" value="1.9885653E-4"></attvalue>
+          <attvalue for="hub" value="1.9885652E-4"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="4.212072565552398E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.019748426250285715"></attvalue>
+        </attvalues>
+        <viz:size value="10.365296"></viz:size>
+        <viz:position x="2350.5024" y="-3230.6511"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Garcin, Jean-Claude">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted indegree" value="3.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="eccentricity" value="16.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.15394165114835506"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19865039194676368"></attvalue>
+          <attvalue for="betweenesscentrality" value="12082.198778998789"></attvalue>
+          <attvalue for="authority" value="0.0020223735"></attvalue>
+          <attvalue for="hub" value="0.0020223735"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="7.882366658380068E-4"></attvalue>
+          <attvalue for="clustering" value="0.03333333507180214"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.0383518532919081"></attvalue>
+        </attvalues>
+        <viz:size value="10.547945"></viz:size>
+        <viz:position x="17.079254" y="912.58765"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Geva-Kleinberger, Aharon">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted indegree" value="3.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="17.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.12977498691784406"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.15367006030549693"></attvalue>
+          <attvalue for="betweenesscentrality" value="206.43333333333334"></attvalue>
+          <attvalue for="authority" value="0.0028811842"></attvalue>
+          <attvalue for="hub" value="0.002881184"></attvalue>
+          <attvalue for="modularity_class" value="157"></attvalue>
+          <attvalue for="pageranks" value="5.569046112931691E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="115"></attvalue>
+          <attvalue for="eigencentrality" value="0.04531296935259068"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-1376.6573" y="615.8412"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Talshir, Zipora">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2692307692307692"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32032312925170064"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="7.742755E-6"></attvalue>
+          <attvalue for="hub" value="7.742755E-6"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+          <attvalue for="pageranks" value="2.6277360056264784E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+          <attvalue for="strongcompnum" value="103"></attvalue>
+          <attvalue for="eigencentrality" value="0.019719515535286048"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="2729.6252" y="-3236.579"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Halliday, Fred">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="113"></attvalue>
+          <attvalue for="pageranks" value="7.359434849811288E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="123"></attvalue>
+          <attvalue for="strongcompnum" value="871"></attvalue>
+          <attvalue for="eigencentrality" value="0.004787965357538289"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-3134.412" y="4848.2837"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+      <node id="Lawles, Richard I.">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted indegree" value="1.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="113"></attvalue>
+          <attvalue for="pageranks" value="7.359434849811288E-4"></attvalue>
+          <attvalue for="clustering" value="0.0"></attvalue>
+          <attvalue for="componentnumber" value="123"></attvalue>
+          <attvalue for="strongcompnum" value="871"></attvalue>
+          <attvalue for="eigencentrality" value="0.004787965357538289"></attvalue>
+        </attvalues>
+        <viz:size value="10.182649"></viz:size>
+        <viz:position x="-3142.7537" y="4733.781"></viz:position>
+        <viz:color r="6" g="6" b="6"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="2" source="Aad, Albert Abi" target="Larcher, Pierre">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2007"></attvalue>
+          <attvalue for="title" value="Review: Le système verbal de l'arabe comparé au français. Énonciation et pragmatique by Albert Abi Aad"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2007"></attvalue>
+          <attvalue for="pages" value="600-602"></attvalue>
+          <attvalue for="issue" value="4"></attvalue>
+          <attvalue for="volume" value="54"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="Abramson, Glenda" target="Yudkin, Leon I.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1991"></attvalue>
+          <attvalue for="title" value="Review: GLENDA  ABRAMSON  . The writing of Jehudah Amichai. A Thematic Approach."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1991"></attvalue>
+          <attvalue for="pages" value="204-208"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XXXVI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="Agius, Dionisius Albertus" target="Vanhove, Martine">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1992"></attvalue>
+          <attvalue for="title" value="Review: The Study of Arabic in Malta: 1632 to 1915 by Dionisius Agius, Vinċenz P. Borg"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="1992"></attvalue>
+          <attvalue for="pages" value="261-263"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="39"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="227" source="Allen, Roger" target="Cobham, Catherine">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2001"></attvalue>
+          <attvalue for="title" value="Review:  ROGER  ALLEN  The Arabic Literary Heritage: The Development of its Genres and Criticism   Cambridge University Press , Cambridge  1998 . Pp.  xxxvii + 437 . Price: £60 hardback. ISBN: 0-521-48066-3."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.2001"></attvalue>
+          <attvalue for="pages" value="183-185"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XLVI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="229" source="Allen, Roger" target="Gilliot, Claude">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2000"></attvalue>
+          <attvalue for="title" value="Review: The Arabic Literary Heritage. The Development of Its Genres and Criticism by Roger Allen"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="2000"></attvalue>
+          <attvalue for="pages" value="190-190"></attvalue>
+          <attvalue for="issue" value="90"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="255" source="Ambros, Arne A." target="Borg, Alexander">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2002"></attvalue>
+          <attvalue for="title" value="Review:  Bonġornu, kif int? Eine Einführung in die maltesische Sprache by Arne A. Ambros"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2002"></attvalue>
+          <attvalue for="pages" value="87-92"></attvalue>
+          <attvalue for="issue" value="41"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="302" source="Aoudé, Ibrahim" target="Talhami, Ghada Hashem">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2015"></attvalue>
+          <attvalue for="title" value="Review: Life in Occupied Palestine by Cynthia G. Franklin, Morgan Cooper, and Ibrahim G. Aoudé. (eds.)"></attvalue>
+          <attvalue for="publication title" value="Arab Studies Quarterly"></attvalue>
+          <attvalue for="date" value="2015"></attvalue>
+          <attvalue for="pages" value="300-306"></attvalue>
+          <attvalue for="issue" value="3"></attvalue>
+          <attvalue for="volume" value="37"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="436" source="Balty-Guesdon, Marie-Geneviève" target="Humbert, Geneviève">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1998"></attvalue>
+          <attvalue for="title" value="Review: Catalogue des manuscrits arabes. 2e partie: Manuscrits musulmans. Tome V, numéros 1465-1685 by Yvette Sauvan, Marie-Geneviève Balty-Guesdon"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="1998"></attvalue>
+          <attvalue for="pages" value="183-186"></attvalue>
+          <attvalue for="issue" value="87"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="677" source="Borg, Alexander" target="Ambros, Arne A.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1992"></attvalue>
+          <attvalue for="title" value="Review: Studia Linguistica et Orientalia Memoriae Haim Blanc Dedicata. Mediterranean Language and Culture Monograph Series, vol. 6 by Paul Wexler, Alexander Borg, Sasson Somekh"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="1992"></attvalue>
+          <attvalue for="pages" value="91-95"></attvalue>
+          <attvalue for="issue" value="24"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="760" source="Brooke, George J." target="Lim, Timothy H.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1996"></attvalue>
+          <attvalue for="title" value="Review: GEORGE J.  BROOKE   FLORENTINO GARCIA  MARTINEZ  New Qumran Texts and Studies: Proceedings of the First Meeting of the International Organization of Qumran Studies, Paris, 1992   (Studies on the Texts of the Desert of Judah 15).  E.J. Brill , Leiden  1994 . Pp.  196-b + 9 plates. Price: NLG. 145.00 $83 hardback. ISBN: 90-09-10093-8."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.1996"></attvalue>
+          <attvalue for="pages" value="196-197"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XLI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="778" source="Budd, Philip J." target="Milgrom, Jacob">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1998"></attvalue>
+          <attvalue for="title" value="Review:  PHILIP J.  BUDD  Leviticus   (The New Century Bible Commentary).  Eerdmans/ Marshall Pickering , Grand Rapids and London  1996 . Pp.  xxiv + 395 . Price: $26.00/£20.00 paperback. ISBN: 0-8028-4197X/0551-02834-3."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.1998"></attvalue>
+          <attvalue for="pages" value="368-370"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XLIII"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="810" source="Calder, Norman" target="Rippin, Andrew">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1994"></attvalue>
+          <attvalue for="title" value="Review: NORMAN  CALDER  , Studies in Early Muslim Jurisprudence  . Oxford ,  Clarendon Press  1993 . Pp.  xiii+257 . Price: £35.00 hardback. ISBN. 0-19-825813-5."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1994"></attvalue>
+          <attvalue for="pages" value="346-349"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XXXIX"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="926" source="Cobham, Catherine" target="Allen, Roger">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1990"></attvalue>
+          <attvalue for="title" value="Review: SABRY  HAFEZ   and CATHERINE  COBHAM   (eds.), A Reader of Modern Arabic Short Stories  ,  Saqi Books , London  1988 . Pp.  222 . Price: £6.95."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.03.1990"></attvalue>
+          <attvalue for="pages" value="170-171"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XXXV"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1117" source="Davies, Graham" target="Rollig, Wolfgang">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2007"></attvalue>
+          <attvalue for="title" value="Review: GRAHAM DAVIES assisted by J.K. Aitken, D.R. De Lacey, P.A. Smith And J. Squirrel, Ancient Hebrew Inscriptions Vol 2: Corpus and Concordance"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.2007"></attvalue>
+          <attvalue for="pages" value="179-179"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="52"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1195" source="Dichy, Joseph" target="Larcher, Pierre">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2002"></attvalue>
+          <attvalue for="title" value="Review: Les verbes arabes (Al-Chāmil fī taṣrīf al-ʾafʿāl) by Sam Ammar, Joseph Dichy"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2002"></attvalue>
+          <attvalue for="pages" value="258-261"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="49"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1336" source="Elad-Bouskila, Ami" target="Holes, Clive">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2006"></attvalue>
+          <attvalue for="title" value="Review:  Linguistic and Cultural Studies on Arabic and Hebrew. Essays presented to Moshe Piamenta for his eightieth birthday by Judith Rosenhouse, Ami Elad-Bouskila"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2006"></attvalue>
+          <attvalue for="pages" value="87-90"></attvalue>
+          <attvalue for="issue" value="45"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1338" source="Elad-Bouskila, Ami" target="Starkey, Paul">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2000"></attvalue>
+          <attvalue for="title" value="Review: The Village Novel in Modern Egyptian Literature (Islamkundliche Untersuchungen, 175) AMI ELAD"></attvalue>
+          <attvalue for="publication title" value="Arabic &amp; Middle Eastern Literature"></attvalue>
+          <attvalue for="date" value="01.01.2000"></attvalue>
+          <attvalue for="pages" value="120-121"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="3"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1606" source="Garcin, Jean-Claude" target="Mouton, Jean-Michel">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1997"></attvalue>
+          <attvalue for="title" value="Review: États, sociétés et cultures du monde musulman médiéval, Xe-XVe siècle, tome 1 by J.-Cl. Garcin"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="1997"></attvalue>
+          <attvalue for="pages" value="177-179"></attvalue>
+          <attvalue for="issue" value="85"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1607" source="Garcin, Jean-Claude" target="Zakharia, Katia">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2005"></attvalue>
+          <attvalue for="title" value="Review: Lectures du Roman de Baybars by J.-C. Garcin"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2005"></attvalue>
+          <attvalue for="pages" value="146-149"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="52"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1636" source="Geoffroy, Eric" target="Lory, Pierre">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1996"></attvalue>
+          <attvalue for="title" value="Review: Le soufisme en Egypte et en Syrie sous les derniers Mamelouks et les premiers Ottomans: Orientations spirituelles et enjeux culturels by Eric Geoffroy"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="1996"></attvalue>
+          <attvalue for="pages" value="191-192"></attvalue>
+          <attvalue for="issue" value="84"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1653" source="Geva-Kleinberger, Aharon" target="Watson, Janet C. E.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2006"></attvalue>
+          <attvalue for="title" value="Review:  Die arabischen Stadtdialekte von Haifa in der ersten Hälfte des 20. Jahrhunderts by Aharon Geva-Kleinberger"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2006"></attvalue>
+          <attvalue for="pages" value="86-87"></attvalue>
+          <attvalue for="issue" value="45"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1681" source="Gilliot, Claude" target="Rippin, Andrew">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1991"></attvalue>
+          <attvalue for="title" value="Review: CLAUDE  GILLIOT  Exégèse, langue et théologie en Islam. L≊'exégèse coranique de Tabari   (Études musulmanes, XXXII).  Librairie philosophique J. Vrin , Paris  1990 .Pp.  320 ."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1991"></attvalue>
+          <attvalue for="pages" value="353-355"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XXXVI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1700" source="Gleave, Robert" target="Newman, Andrew J.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2005"></attvalue>
+          <attvalue for="title" value="Review: Inevitable Doubt: Two Theories of Shi'i Jurisprudence"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.03.2005"></attvalue>
+          <attvalue for="pages" value="225-227"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="50"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1701" source="Gleave, Robert" target="Newman, Andrew J.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2010"></attvalue>
+          <attvalue for="title" value="Review: ROBERT GLEAVE, Scripturalist Islam: The History and Doctrines of the Akhbari Shi'i School (Islamic Philosophy, Theology and Science, Texts and Studies 72)."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.09.2010"></attvalue>
+          <attvalue for="pages" value="616-618"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="55"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1758" source="Grabbe, Lester L." target="Brooke, George J.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1995"></attvalue>
+          <attvalue for="title" value="Review: L. L.  GRABBE  Leviticus   (Old Testament Guides).  JSOT. Press , Sheffield  1993 . Pp. .ISBN: 1-85075-440-3paperback"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1995"></attvalue>
+          <attvalue for="pages" value="391-a-391"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XL"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1759" source="Grabbe, Lester L." target="Brooke, George J.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1998"></attvalue>
+          <attvalue for="title" value="Review:  L. L.  GRABBE  An Introduction to First Century Judaism: Jewish Religion and History in the Second Temple Period   T. &amp; T. Clark , Edinburgh  1996 . Pp.  xiv + 124 . ISBN: 0-567-08506-6 paperback."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.1998"></attvalue>
+          <attvalue for="pages" value="381-382"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XLIII"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1762" source="Grabbe, Lester L." target="Talshir, Zipora">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2002"></attvalue>
+          <attvalue for="title" value="Review: Ezra-Nehemiah"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.03.2002"></attvalue>
+          <attvalue for="pages" value="147-149"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="47"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1903" source="Halliday, Fred" target="Lawles, Richard I.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1994"></attvalue>
+          <attvalue for="title" value="Review: FRED  HALLIDAY  , Arabs in Exile. Yemeni migrants in urban Britain  .  I.B. Taurus &amp; Co Ltd , London , New York  1992 . Pp  xiv+166 + 15 photographs. Price: £35 hardback. ISBN: 1-85043-499-9."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1994"></attvalue>
+          <attvalue for="pages" value="404-408"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XXXIX"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2075" source="Holes, Clive" target="Kaye, Alan S.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1992"></attvalue>
+          <attvalue for="title" value="Review:  Gulf Arabic by Clive Holes"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="1992"></attvalue>
+          <attvalue for="pages" value="98-102"></attvalue>
+          <attvalue for="issue" value="24"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2076" source="Holes, Clive" target="Vanhove, Martine">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1997"></attvalue>
+          <attvalue for="title" value="Review: CLIVE  HOLES  , Modern Arabic: Structures, Functions and Varieties   (Longman Linguistics Library).  Longman , London  1995 . Pp.  xiii + 343 . Price: £19.99 paperback. ISBN: 0-582-02884-1."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.1997"></attvalue>
+          <attvalue for="pages" value="205-210"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XLII"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2077" source="Holes, Clive" target="Watson, Janet C. E.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2003"></attvalue>
+          <attvalue for="title" value="Review:  Dialect, Culture, &amp; Society in Eastern Arabia, vol. 1: Glossary by Clive Holes"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2003"></attvalue>
+          <attvalue for="pages" value="94-96"></attvalue>
+          <attvalue for="issue" value="42"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2129" source="Humbert, Geneviève" target="Balty-Guesdon, Marie-Geneviève">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1997"></attvalue>
+          <attvalue for="title" value="Review: Les voies de la transmission du Kitāb de Sībawayhi by Geneviève Humbert"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="1997"></attvalue>
+          <attvalue for="pages" value="201-203"></attvalue>
+          <attvalue for="issue" value="85"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2404" source="Kaye, Alan S." target="Holes, Clive">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1990"></attvalue>
+          <attvalue for="title" value="Review: ALAN S.  KAYE  , A Dictionary of Nigerian Arabic   (Bibliotheca Afroasiatica I),  Undena Publications , Malibu  1982 . Pp.  xvi + 92"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1990"></attvalue>
+          <attvalue for="pages" value="374-375"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XXXV"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2405" source="Kaye, Alan S." target="Owens, Jonathan">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1990"></attvalue>
+          <attvalue for="title" value="Review: Nigerian Arabic-English Dictionary by ALAN S. KAYE"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="1990"></attvalue>
+          <attvalue for="pages" value="90-91"></attvalue>
+          <attvalue for="issue" value="21"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2407" source="Kaye, Alan S." target="Watson, Janet C. E.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1993"></attvalue>
+          <attvalue for="title" value="Review: HABAKA J.  FEGHALI  , Arabic Adeni Textbook. Arabic Dialect Series (Yemen)   (ed. ALAN S.  KAYE  ).  Dunwoody Press , Wheaton  1991 . Pp.  xx + 233 . ISBN: 0-913-745-46-2. HABAKA J.  FEGHALI  Arabic Adeni Textbook. Arabic Dialect Series (Yemen)   (ed. ALAN S.  KAYE   ).  Dunwoody Press , Wheaton  1991 . Pp.  xx + 265 . ISBN: 0-913-745-46-2."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1993"></attvalue>
+          <attvalue for="pages" value="168-171"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XXXVIII"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2637" source="Langer, Ruth" target="Reif, Stefan C.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2001"></attvalue>
+          <attvalue for="title" value="Review:  RUTH  LANGER   to Worship god Properly: Tension betrween Liturgical Cussons and Halakhah in Judaism   (Monographs of the Hebrew Union College 22.) Hebrew Union Union College Press , Cincinnati  1998 . Pp.  344-b . Price: £ 49.95 hardback. ISBN: 0-87820-421-0."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="2001"></attvalue>
+          <attvalue for="pages" value="344-b-347"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XLVI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2638" source="Langer, Ruth" target="Reif, Stefan C.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2001"></attvalue>
+          <attvalue for="title" value="Review:  RUTH  LANGER   to Worship god Properly: Tension betrween Liturgical Cussons and Halakhah in Judaism   (Monographs of the Hebrew Union College 22.) Hebrew Union Union College Press , Cincinnati  1998 . Pp.  344-b . Price: £ 49.95 hardback. ISBN: 0-87820-421-0."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.2001"></attvalue>
+          <attvalue for="pages" value="344-347"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XLVI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2647" source="Larcher, Pierre" target="Aad, Albert Abi">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2004"></attvalue>
+          <attvalue for="title" value="Review: Le système verbal de l'arabe classique by Pierre Larcher"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2004"></attvalue>
+          <attvalue for="pages" value="389-393"></attvalue>
+          <attvalue for="issue" value="3"></attvalue>
+          <attvalue for="volume" value="51"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2650" source="Larcher, Pierre" target="Dichy, Joseph">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2003"></attvalue>
+          <attvalue for="title" value="Review: La Sémitologie, aujourd'hui by Philippe Cassuto, Pierre Larcher"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2003"></attvalue>
+          <attvalue for="pages" value="252-258"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="50"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2656" source="Larcher, Pierre" target="Owens, Jonathan">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2008"></attvalue>
+          <attvalue for="title" value="Review:  La formation des mots dans les langues sémitiques by Philippe Cassuto, Pierre Larcher"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2008"></attvalue>
+          <attvalue for="pages" value="332-335"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="55"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2659" source="Larcher, Pierre" target="Zakharia, Katia">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2017"></attvalue>
+          <attvalue for="title" value="Review: Orientalisme savant, orientalisme littéraire : sept essais sur leur connexion, written by Pierre Larcher"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="07.11.2017"></attvalue>
+          <attvalue for="pages" value="812-817"></attvalue>
+          <attvalue for="issue" value="05.06.2018"></attvalue>
+          <attvalue for="volume" value="64"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2675" source="Lawles, Richard I." target="Halliday, Fred">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1997"></attvalue>
+          <attvalue for="title" value="Review: RICHARD I.  LAWLES  , From Ta'iz to Tyneside: An Arab Community in the North-East of England during the Early Twentieth Century  .  University of Exeter Press , Exeter  1995 . Pp.  x + 292 . Price: £14.94 paperback. ISBN: 0-85989-460-6."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.1997"></attvalue>
+          <attvalue for="pages" value="458-459"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XLII"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2751" source="Lim, Timothy H." target="Brooke, George J.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2003"></attvalue>
+          <attvalue for="title" value="Review: On Scrolls, Artefacts and Intellectual Property (Journal for the Study of the Pseudepigrapha Supplement Series 38)   Timothy H. Lim, Hector L. Macqueen and Calum M. Carmichael  (eds), Sheffield Academic Press, Sheffield  2001. Pp. 269. Price: £50.00  hardback. ISBN: 1-84127-212-4."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.09.2003"></attvalue>
+          <attvalue for="pages" value="423-423"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="48"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2790" source="Lory, Pierre" target="Geoffroy, Eric">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2003"></attvalue>
+          <attvalue for="title" value="Review: Le rêve et ses interprétations en Islam by Pierre Lory"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="2003"></attvalue>
+          <attvalue for="pages" value="187-188"></attvalue>
+          <attvalue for="issue" value="97"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2791" source="Lory, Pierre" target="Gilliot, Claude">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1994"></attvalue>
+          <attvalue for="title" value="Review: Les commentaires ésotériques du Coran d'après ʿAbd al-Razzāq al-Qāshānī by Pierre Lory"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="1994"></attvalue>
+          <attvalue for="pages" value="427-427"></attvalue>
+          <attvalue for="issue" value="3"></attvalue>
+          <attvalue for="volume" value="41"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3084" source="Milgrom, Jacob" target="Budd, Philip J.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1993"></attvalue>
+          <attvalue for="title" value="Review: JACOB  MILGROM  , Leviticus 1–16  . The Anchor Bible 3. Doubleday, New York  1991 . Pp.  xix + 1163 . Price: $ 42 (hardback). ISBN: 0-385-11434-6."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1993"></attvalue>
+          <attvalue for="pages" value="141-143"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XXXVIII"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3180" source="Mouton, Jean-Michel" target="Garcin, Jean-Claude">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1996"></attvalue>
+          <attvalue for="title" value="Review: Damas et sa principauté sous les Saljoukides et les Bourides by Jean-Michel Mouton"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="1996"></attvalue>
+          <attvalue for="pages" value="181-185"></attvalue>
+          <attvalue for="issue" value="84"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3181" source="Mouton, Jean-Michel" target="Garcin, Jean-Claude">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2001"></attvalue>
+          <attvalue for="title" value="Review: Le Sinaï Médiéval, un espace stratégique de l'islam by Jean-Michel Mouton"></attvalue>
+          <attvalue for="publication title" value="Studia Islamica"></attvalue>
+          <attvalue for="date" value="2001"></attvalue>
+          <attvalue for="pages" value="214-216"></attvalue>
+          <attvalue for="issue" value="92"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3331" source="Newman, Andrew J." target="Gleave, Robert">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2002"></attvalue>
+          <attvalue for="title" value="Review: The Formative Period of Twelver Shiism: hadith as Discourse between Qum and Baghdad"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.09.2002"></attvalue>
+          <attvalue for="pages" value="382-383"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="47"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3425" source="Owens, Jonathan" target="Kaye, Alan S.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2001"></attvalue>
+          <attvalue for="title" value="Review:  Arabic as a Minority Language. Contributions to the Sociology of Language, no. 83 by Jonathan Owens Arabic as a Minority Language. Contributions to the Sociology of Language, no. 83 by Jonathan Owens"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2001"></attvalue>
+          <attvalue for="pages" value="92-94"></attvalue>
+          <attvalue for="issue" value="40"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3426" source="Owens, Jonathan" target="Larcher, Pierre">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1997"></attvalue>
+          <attvalue for="title" value="Review: Arabs and Arabic in the Lake Chad Region, Sprache und Geschichte in Afrika by Jonathan Owens"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="1997"></attvalue>
+          <attvalue for="pages" value="327-329"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="44"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3709" source="Reif, Stefan C." target="Grabbe, Lester L.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2004"></attvalue>
+          <attvalue for="title" value="Review: The Cambridge Genizah Collections: Their Contents and Significance"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.09.2004"></attvalue>
+          <attvalue for="pages" value="394-394"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="49"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3710" source="Reif, Stefan C." target="Langer, Ruth">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1995"></attvalue>
+          <attvalue for="title" value="Review: STEFAN C.  REIF  Judaism and Hebrew Prayer: New Perspectives on Jewish Liturgical History   Cambridge University Press , Cambridge  1993 . Pp.  xiii + 437 . Price: £40.00 hardback. ISBN: 0-521-44087-4."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1995"></attvalue>
+          <attvalue for="pages" value="152-153"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="XL"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3763" source="Rippin, Andrew" target="Calder, Norman">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1990"></attvalue>
+          <attvalue for="title" value="Review: ANDREW  RIPPIN  , (ed.), Approaches to the History of the Interpretation of the Qur'ān  , Oxford  1988 . Pp.  xi + 334 . Price: £ 37.50."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1990"></attvalue>
+          <attvalue for="pages" value="333-335"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XXXV"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3765" source="Rippin, Andrew" target="Gilliot, Claude">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2000"></attvalue>
+          <attvalue for="title" value="Review: Gott ist schön by Navid Kermani"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2000"></attvalue>
+          <attvalue for="pages" value="574-575"></attvalue>
+          <attvalue for="issue" value="3"></attvalue>
+          <attvalue for="volume" value="47"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3788" source="Rollig, Wolfgang" target="Davies, Graham">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2007"></attvalue>
+          <attvalue for="title" value="Review: JOHANNES RENZ and WOLFGANG ROLLIG, Handbuch der althebraischen Epigraphik Volume II/2: Materialien zur althebraischen Morphologie. Siegel und Gewichte"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.2007"></attvalue>
+          <attvalue for="pages" value="141-143"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="52"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4158" source="Sima, Alexander" target="Stein, Peter">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2004"></attvalue>
+          <attvalue for="title" value="Review: Tiere, Pflanzen, Steine und Metalle in den altsüdarabischen Inschriften. Eine lexikalische und realienkundliche Untersuchung. (Akademie der Wissenschaften und der Literatur Mainz: Veröffentlichungen der Orientalischen Kommission. Band 46) by Alexander Sima, Walter W. Müller"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2004"></attvalue>
+          <attvalue for="pages" value="75-82"></attvalue>
+          <attvalue for="issue" value="43"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4289" source="Starkey, Paul" target="Elad-Bouskila, Ami">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2009"></attvalue>
+          <attvalue for="title" value="Review: PAUL STARKEY, Modern Arabic Literature."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.03.2009"></attvalue>
+          <attvalue for="pages" value="302-305"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="54"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4309" source="Stein, Peter" target="Sima, Alexander">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2006"></attvalue>
+          <attvalue for="title" value="Review: Untersuchungen zur Phonologie und Morphologie des Sabäischen. Epigraphische Forschungen auf der Arabischen Halbinsel, Band 3 by Peter Stein"></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2006"></attvalue>
+          <attvalue for="pages" value="90-97"></attvalue>
+          <attvalue for="issue" value="45"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4427" source="Talhami, Ghada Hashem" target="Aoudé, Ibrahim">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2010"></attvalue>
+          <attvalue for="title" value="Review: EDITOR'S ESSAY ON GHADA HASHEM TALHAMI'S &quot;PALESTINE IN THE EGYPTIAN PRESS&quot;"></attvalue>
+          <attvalue for="publication title" value="Arab Studies Quarterly"></attvalue>
+          <attvalue for="date" value="2010"></attvalue>
+          <attvalue for="pages" value="63-67"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="32"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4433" source="Talshir, Zipora" target="Grabbe, Lester L.">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2002"></attvalue>
+          <attvalue for="title" value="Review: I Esdras: From Origin to Translation"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.09.2002"></attvalue>
+          <attvalue for="pages" value="343-345"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="47"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4614" source="Vanhove, Martine" target="Agius, Dionisius Albertus">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1996"></attvalue>
+          <attvalue for="title" value="Review: MARTINE  VANHOVE  , La Langue maltaise: études syntaxiques d'un dialecte arabe ‘périphérique‘ (Semitica Viva 11)  .  Harrassowitz Verlag , Wiesbaden  1993 . Pp.  xv + 533 . Price: DM 102.00 paperback. ISBN: 3-447-03342-8"></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="01.01.1996"></attvalue>
+          <attvalue for="pages" value="375-376"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XLI"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4737" source="Watson, Janet C. E." target="Geva-Kleinberger, Aharon">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2017"></attvalue>
+          <attvalue for="title" value="Review: The Structure of Mehri by WATSON, JANET C. E."></attvalue>
+          <attvalue for="publication title" value="Zeitschrift für Arabische Linguistik"></attvalue>
+          <attvalue for="date" value="2017"></attvalue>
+          <attvalue for="pages" value="96-98"></attvalue>
+          <attvalue for="issue" value="65"></attvalue>
+          <attvalue for="volume" value=""></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4922" source="Yudkin, Leon I." target="Abramson, Glenda">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="1994"></attvalue>
+          <attvalue for="title" value="Review: LEON  YUDKIN  Beyond Sequence: Current Israeli Fiction and its Context  .  Symposium Press , Northwood  1992 . Pp.  viii+189 . Price: £15 paperback. ISBN: 0-90592-7-4."></attvalue>
+          <attvalue for="publication title" value="Journal of Semitic Studies"></attvalue>
+          <attvalue for="date" value="1994"></attvalue>
+          <attvalue for="pages" value="335-338"></attvalue>
+          <attvalue for="issue" value="2"></attvalue>
+          <attvalue for="volume" value="XXXIX"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4940" source="Zakharia, Katia" target="Allen, Roger">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2007"></attvalue>
+          <attvalue for="title" value="Review: A la découverte de la littérature arabe: du VIe siècle à nos jours HEIDI TOELLE &amp; KATIA ZAKHARIA"></attvalue>
+          <attvalue for="publication title" value="Middle Eastern Literatures"></attvalue>
+          <attvalue for="date" value="01.04.2007"></attvalue>
+          <attvalue for="pages" value="75-79"></attvalue>
+          <attvalue for="issue" value="1"></attvalue>
+          <attvalue for="volume" value="10"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4941" source="Zakharia, Katia" target="Larcher, Pierre">
+        <viz:color r="8" g="8" b="8"></viz:color>
+        <attvalues>
+          <attvalue for="publication year" value="2009"></attvalue>
+          <attvalue for="title" value="Review: Nouvelles policières du monde abbasside/Aḫbār būlīsiyya min al-'aṣr al-'abbāsī by Katia Zakharia"></attvalue>
+          <attvalue for="publication title" value="Arabica"></attvalue>
+          <attvalue for="date" value="2009"></attvalue>
+          <attvalue for="pages" value="493-494"></attvalue>
+          <attvalue for="issue" value="04.05.2018"></attvalue>
+          <attvalue for="volume" value="56"></attvalue>
+          <attvalue for="translator" value=""></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

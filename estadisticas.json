@@ -121,6 +121,20 @@
       "browsegraph": "3_Journals/Workspace1.gexf",
       "type": "Directed",
       "metrics": []
+    },
+    {
+      "name": "4_MutualEdges",
+      "title": "4_MutualEdges",
+      "tip": "",
+      "nodes": "46",
+      "edges": "66",
+      "description": "",
+      "imgColorDescription": "",
+      "graphfile": "4_MutualEdges/Workspace1.csv",
+      "pdffile": "4_MutualEdges/Workspace1.pdf",
+      "browsegraph": "4_MutualEdges/Workspace1.gexf",
+      "type": "Directed",
+      "metrics": []
     }
   ]
 }

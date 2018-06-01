@@ -74,22 +74,22 @@
         {
           "name": "Green",
           "value": "Middle East Politics, contemporary Islam",
-          "description": "Example: Sullivan: America's Confrontation with Revolutionary Change in the Middle East, 1948-1983 by William Stivers"
+          "description": "Example: Sullivan: America s Confrontation with Revolutionary Change in the Middle East 1948-1983 by William Stivers"
         },
         {
           "name": "Red",
           "value": "Persian, Iranian Studies",
-          "description": "Example: Nakjavani: New Light on Nizami by Julie Scott Meisami, Kamran Talattof, Jerome W. Clinton"
+          "description": "Example: Nakjavani: New Light on Nizami by Julie Scott Meisami et al"
         },
         {
           "name": "Violet",
           "value": "Arabic Literature, Islamic Studies",
-          "description": "Example: Lory: Le Prêtre et le Prophète: Aux sources du Coran by Joseph Azzi, Maurice S. Garnier"
+          "description": "Example: Lory: Le Prêtre et le Prophète. Aux sources du Coran by Joseph Azzi, Maurice S. Garnier"
         },
         {
           "name": "Orange",
           "value": "Arabic Literature, Arabic Linguistics, Semitic Studies",
-          "description": "Example: Arabic Grammar and Linguistics by Yasir Suleiman"
+          "description": "Example: Larcher: Grammar and Linguistics by Yasir Suleiman"
         },
         {
           "name": "Blue",
@@ -104,7 +104,7 @@
         {
           "name": "Black",
           "value": "Arabic Literature",
-          "description": "Example: Guzmán: Granada. A Novel by Radwa 'Ashour, William Granara, María Rosa Menocal."
+          "description": "Example: Guzmán: Granada. A Novel by Radwa Ashour et al."
         }
       ]
     },
